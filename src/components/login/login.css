@@ -1,0 +1,35 @@
+.login-bar {
+    color: #fff;
+    font-family: var(--font-family);
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 4rem;
+    width: 100vw;
+    height: auto;
+    border-bottom: 1px solid #FFF;
+    position: right;
+
+}
+
+.login-bar span{
+    color: #fff;
+    font-family: var(--font-family);
+    font-size: 16px; 
+    padding: 1rem;
+}
+
+.login-btn{
+    margin: 0 auto;
+    border: none;
+    outline: none;
+    padding: 0.75em 2em;
+    font-size: 1em;
+    letter-spacing: 1px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .4);
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+    background-color: rgb(134, 49, 0);
+    color: #fff;
+    cursor: pointer;
+  }

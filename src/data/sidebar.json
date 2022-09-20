@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Navigation",
+        "icon": "bi-book",
+        "childrens": [
+            {
+                "title": "Header",
+                "icon": "bi-layers",
+                "path": "/"
+            },
+            {
+                "title": "Section-1",
+                "icon": "bi-layers-half",
+                "childrens": [
+                    {
+                        "title": "Body-1",
+                        "icon": "bi-box-fill"
+                    },
+                    {
+                        "title": "Body-2",
+                        "icon": "bi-box-fill"
+                    },
+                    {
+                        "title": "Body-3",
+                        "icon": "bi-box-fill"
+                    }
+                ]
+            },
+            {
+                "title": "Section-2",
+                "icon": "bi-layers-half",
+                "childrens": [
+                    {
+                        "title": "Background",
+                        "icon": "bi-box-fill"
+                    }
+                ]
+            },
+            {
+                "title": "Container",
+                "icon": "bi-box-seam",
+                "childrens": [
+                    {
+                        "title": "Wrapper",
+                        "icon": "bi-box-fill"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "title": "Assets",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "Asset Store",
+                "path": "/store"
+            },
+            {
+                "title": "User Assets",
+                "path": "/assets"
+            }
+        ]
+    },
+    
+    {
+        "title": "Support",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Report Bug",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    }
+]
